@@ -10,17 +10,17 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Music Pro Event june 15th",
-          artist: "Music Pro Event june 15th",
-          cover: "https://github.com/Fjords-Tech/osbrncdbcbdfg/raw/main/Free_Sample_By_Wix.jpeg",
+          name: "Music Pro Event June 15th",
+          artist: "Music Pro Event June 15th",
+          cover: "https://github.com/Fjords-Tech/osbrncdbcbdfg/raw/main/Music%20pro.jpeg",
           source: "https://github.com/Fjords-Tech/osbrncdbcbdfg/raw/main/Sheikh%20Rashid%20Bin%20Saeed%20Street%203.m4a",
           url: "https://fjordservers.com",
           favorited: true
         },
         {
-          name: "Music Pro Event june 16th",
-          artist: "Music Pro Event june 16th",
-          cover: "https://github.com/Fjords-Tech/osbrncdbcbdfg/raw/main/Free_Sample_By_Wix.jpeg",
+          name: "Music Pro Event June 16th",
+          artist: "Music Pro Event June 16th",
+          cover: "https://github.com/Fjords-Tech/osbrncdbcbdfg/raw/main/Music%20pro.jpeg",
           source: "https://github.com/Fjords-Tech/osbrncdbcbdfg/raw/main/Sheikh%20Rashid%20Bin%20Saeed%20Street%204.m4a",
           url: "https://fjordservers.com",
           favorited: true
